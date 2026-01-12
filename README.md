@@ -1,4 +1,4 @@
-velog : https://velog.io/@hyeongkyu1113/posts
+https://velog.io/@hyeongkyu1113/posts
 
 ![MunHK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunHK&show_icons=true&theme=tokyonight)
 
